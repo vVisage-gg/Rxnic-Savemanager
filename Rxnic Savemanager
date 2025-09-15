@@ -491,3 +491,5 @@ local SaveManager = {} do
 
     SaveManager:BuildFolderTree()
 end
+
+return SaveManager
